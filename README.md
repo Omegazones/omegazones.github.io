@@ -1,1 +1,0 @@
-# omegazones.github.io
