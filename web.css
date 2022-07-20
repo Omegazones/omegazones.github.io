@@ -50,10 +50,10 @@ ul {
     padding-left: 50%;
     position: absolute;
     z-index: 100;
+    display: block;
 }
 
 .load {
-    display: block;
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -462,13 +462,16 @@ textarea{
 
     .header {
         width: 720px;
-
-
         height: 300px;
+    }
+    
+    nav {
+    		  padding-left: 0px;
     }
 
     .brand{
         padding: 20px;
+
     }
 
     .brand .logo {
